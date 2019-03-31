@@ -1,9 +1,10 @@
 # Linear-Regression
 
-Dataset:
+Dataset:\n
 The data set is AutoMPG dataset from the UCI repository.
 
 Steps & Results:
+\n
 Implmented L2-regularized regression. 
 First 100 points are used as training data.
 Fit a regression model with 90 basis function using
