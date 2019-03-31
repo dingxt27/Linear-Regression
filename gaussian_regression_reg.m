@@ -1,6 +1,10 @@
 clc
 clear all;
-
+%read auto-mpg.data in access and convert it to csv, load data auto-mpg.csv
+% %column by column and concatenate them into A
+% A  = [Column1 Column2 Column3 Column4 Column5 Column6 Column7 Column8];
+% %the real output
+% t = A(:,1);
 load ('A.mat');
 
 X_all = A;
